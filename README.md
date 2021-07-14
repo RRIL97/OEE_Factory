@@ -9,8 +9,8 @@ OEE (Overall Equipment Effectiveness) is the gold standard for measuring manufac
 
 This project was coded for a big factory in ashdod and was meant to be used in order preserve productivity within the factory.
 
-This project required a lot of team work and was coded with the help of my sisters that study computer science.
-Over all it took a week to code which included a lot of self learning, figuring how to interact with the new SQL server & numerous new libraries that we had to use in order to complete the task properly.
+This project required a lot of team work and was coded with the help of my sisters that also study computer science. (We split the project into different parts)
+Over all it took a week to code and mostly because it included a lot of self learning, we had to figure how to interact with SQL server & numerous new libraries that we had to use in order to complete the task properly.
 
 
 How does this work?
@@ -19,10 +19,11 @@ How does this work?
 * PLC Controllers of machines automatically save their usage info into an SQL server that is ran in the factory.
 * Our program analysis this info and outputs efficency reports - both for machines and workers.
 
-Why would I want to use this?
+Why would I want to use this as a company CEO?
 ------
 The factory CEO that utilizes our program can easily figure out which worker is the fastest/slowest worker, which machine is non efficent and much more!
-The CEO can generate graphs and see all the needed data infront of him, improve his overall factory performance and by doing that saving thousand of dollars daily.
+The CEO can generate graphs and see all the needed data infront of him, improve his overall factory performance. 
+This helps save minimum thousands of dollars on the daily.
 
 ------
 
