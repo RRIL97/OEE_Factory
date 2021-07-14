@@ -18,7 +18,9 @@ Over all it took a week to code which included a lot of self learning, figuring 
 Pictures-
 -------
 ![Screenshot](Picture1.png)
+-------
 ![Screenshot](Picture2.png)
+-------
 ![Screenshot](Picture3.png)
 
 
