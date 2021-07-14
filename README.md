@@ -15,7 +15,9 @@ Over all it took a week to code - mostly because it included a lot of self learn
 Similiar programs go for *hundred of thousands* in the current market and we simply wanted to challenge ourselves. 
 
 ---
-**This was coded after we all have finished our first year in computer science! A fun project to spend our time properly ;) **
+
+**This was coded after we all have finished our first year in computer science! A fun project to spend our time properly ;) 
+
 ---
 
 How does this work?
