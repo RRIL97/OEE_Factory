@@ -25,7 +25,8 @@ Why would I want to use this as a company CEO?
 ------
 The factory CEO that utilizes our program can easily figure out which worker is the fastest/slowest worker, which machine is non efficent and much more!
 The CEO can generate graphs and see all the needed data infront of him, improve his overall factory performance. 
-This helps save minimum thousands of dollars on the daily, who doesn't want to save money nowdays?
+
+This helps save thousands of dollars in a day ,  who doesn't want to save money nowdays?
 
 ------
 
