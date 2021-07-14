@@ -12,7 +12,9 @@ This project was coded for a big factory in ashdod and was meant to be used in o
 This project required a lot of team work and was coded with the help of my sisters that also study computer science. (We split the project into different parts and each had their own missions)
 Over all it took a week to code - mostly because it included a lot of self learning, we had to figure how to interact with SQL server & numerous new libraries that we had to use in order to complete the task properly.
 
-Similiar programs go for *hundred of thousands* in the current market and we simply wanted to challenge ourselves. (This was coded after we all have finished our first year in the university!)
+Similiar programs go for *hundred of thousands* in the current market and we simply wanted to challenge ourselves. 
+
+**This was coded after we all have finished our first year in computer science! A fun project to spend our time properly ;)
 
 
 How does this work?
