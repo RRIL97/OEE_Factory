@@ -2,7 +2,7 @@
 
 Overall Equipment Effectiveness program.
 -----
-
+![Screenshot](Picture5.png)
 
 OEE (Overall Equipment Effectiveness) is the gold standard for measuring manufacturing productivity. Simply put – it identifies the percentage of manufacturing time that is truly productive. An OEE score of 100% means you are manufacturing only Good Parts, as fast as possible, with no Stop Time.
 
@@ -37,7 +37,9 @@ This helps save thousands of dollars in a day ,  who doesn't want to save money 
 
 
 
-Pictures-
+Pictures
+-------
+![Screenshot](Picture4.png)
 -------
 ![Screenshot](Picture1.png)
 -------
