@@ -16,7 +16,7 @@ Similiar programs go for *hundred of thousands* in the current market and we sim
 
 ---
 
-**This was coded after we all have finished our first year in computer science! A fun project we picked to spend our time properly ;) 
+**This was coded after we all have finished our first year in computer science! A fun project that we have chosen in order to spend our time properly ;) 
 
 ---
 
